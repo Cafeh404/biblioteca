@@ -1,0 +1,25 @@
+body{
+	background-color: #070610;
+}
+img{
+	width: 100%;
+	height: 100%;
+}
+.banner{
+	padding: 0px;
+	background-color: #8f58dc;
+	object-fit: cover;
+	display: block;
+}
+
+.tabela{
+	background-color: #ffffff;
+}
+
+a:visited{
+	color: #0b03fc;
+}
+
+a:link{
+	color: #0b03fc;
+}
